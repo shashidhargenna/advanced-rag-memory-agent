@@ -1,8 +1,22 @@
+# Virtual environments
 venv/
+.venv/
+
+# Environment variables and secrets
 .env
+
+# Python cache
 __pycache__/
 *.py[cod]
+
+# Testing
 .pytest_cache/
+
+# OS files
 .DS_Store
+
+# Database/storage
 qdrant_storage/
+
+# Logs
 *.log

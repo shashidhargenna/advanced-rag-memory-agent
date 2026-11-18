@@ -1,0 +1,439 @@
+{
+    "parent_0": {
+        "page_content": "TechNova Solutions — Employee Handbook\n Fictional sample knowledge-base document | Version 1.0\nDocument notice: All company names, policies, processes, and examples in this document are fictional and created\nsolely for software testing and demonstration.\n1. Working principles\nTechNova Solutions is a fictional organization used to demonstrate document retrieval. This handbook describes\nillustrative workplace expectations. Employees are expected to act respectfully, communicate clearly, protect\ncustomer and company information, and raise concerns through appropriate channels. The handbook supplements,\nbut does not replace, the sample HR Policies document.\n2. Professional conduct\nEmployees should treat colleagues, customers, vendors, and visitors with courtesy. Harassment, discrimination,\nintimidation, retaliation, and abusive conduct are not acceptable in this fictional workplace. Concerns may be",
+        "metadata": {
+            "producer": "ReportLab PDF Library - (opensource)",
+            "creator": "(unspecified)",
+            "creationdate": "2026-11-17T08:07:13+00:00",
+            "author": "(anonymous)",
+            "keywords": "",
+            "moddate": "2026-11-17T08:07:13+00:00",
+            "subject": "(unspecified)",
+            "title": "(anonymous)",
+            "trapped": "/False",
+            "source": "employee_handbook.pdf",
+            "total_pages": 2,
+            "page": 0,
+            "page_label": "1",
+            "parent_id": "parent_0"
+        }
+    },
+    "parent_1": {
+        "page_content": "reported to a manager, HR, or the designated confidential reporting channel. Reports should be handled discreetly\nand reviewed by an appropriate person. Retaliation against someone who raises a concern in good faith is prohibited\nunder this sample standard.\n3. Communication and meetings\nTeams should use the approved collaboration platform for work discussions and keep decisions discoverable.\nMeeting organizers should provide an agenda when practical, invite only relevant participants, and record decisions\nand action items. Employees should distinguish confirmed decisions from proposals. Sensitive employee or\ncustomer information should not be posted in broad channels. For urgent incidents, use the incident escalation\nprocess rather than relying only on an ordinary chat message.\n4. Information handling\nCompany information should be classified according to its sensitivity. Public information may be shared externally",
+        "metadata": {
+            "producer": "ReportLab PDF Library - (opensource)",
+            "creator": "(unspecified)",
+            "creationdate": "2026-11-17T08:07:13+00:00",
+            "author": "(anonymous)",
+            "keywords": "",
+            "moddate": "2026-11-17T08:07:13+00:00",
+            "subject": "(unspecified)",
+            "title": "(anonymous)",
+            "trapped": "/False",
+            "source": "employee_handbook.pdf",
+            "total_pages": 2,
+            "page": 0,
+            "page_label": "1",
+            "parent_id": "parent_1"
+        }
+    },
+    "parent_2": {
+        "page_content": "when approved. Internal information is intended for employees and approved contractors. Confidential information,\nincluding customer records, credentials, employee records, and unreleased business plans, must be shared only\nwith authorized recipients using approved systems. Employees must not place passwords or API keys in source\ncode, tickets, public repositories, or chat messages.\n5. Equipment and acceptable use\nCompany devices are provided primarily for business use. Employees should install software only from approved\nsources and should not disable endpoint protection or security controls. Lost or stolen devices must be reported\npromptly to the IT service desk. Personal devices may access company systems only when permitted by the\napplicable security standard. Employees should lock their screens when away from their workstations.\n6. Conflicts of interest and outside work\nEmployees should disclose a situation that could reasonably create a conflict between personal interests and",
+        "metadata": {
+            "producer": "ReportLab PDF Library - (opensource)",
+            "creator": "(unspecified)",
+            "creationdate": "2026-11-17T08:07:13+00:00",
+            "author": "(anonymous)",
+            "keywords": "",
+            "moddate": "2026-11-17T08:07:13+00:00",
+            "subject": "(unspecified)",
+            "title": "(anonymous)",
+            "trapped": "/False",
+            "source": "employee_handbook.pdf",
+            "total_pages": 2,
+            "page": 0,
+            "page_label": "1",
+            "parent_id": "parent_2"
+        }
+    },
+    "parent_3": {
+        "page_content": "company responsibilities. Examples include evaluating a vendor owned by a close relative, using confidential\ninformation for personal benefit, or accepting an improper gift. Outside employment or consulting should be disclosed\nwhen it may affect working hours, confidentiality, or business interests. HR and the employee's manager determine\nthe appropriate review path.",
+        "metadata": {
+            "producer": "ReportLab PDF Library - (opensource)",
+            "creator": "(unspecified)",
+            "creationdate": "2026-11-17T08:07:13+00:00",
+            "author": "(anonymous)",
+            "keywords": "",
+            "moddate": "2026-11-17T08:07:13+00:00",
+            "subject": "(unspecified)",
+            "title": "(anonymous)",
+            "trapped": "/False",
+            "source": "employee_handbook.pdf",
+            "total_pages": 2,
+            "page": 0,
+            "page_label": "1",
+            "parent_id": "parent_3"
+        }
+    },
+    "parent_4": {
+        "page_content": "7. Questions and acknowledgement\nQuestions about workplace expectations should be directed to the employee's manager or HR. Employees should\nacknowledge receipt of the current handbook through the designated HR portal. Acknowledgement confirms receipt;\nit does not mean that every illustrative example applies in every jurisdiction or circumstance.\nEnd of sample document.",
+        "metadata": {
+            "producer": "ReportLab PDF Library - (opensource)",
+            "creator": "(unspecified)",
+            "creationdate": "2026-11-17T08:07:13+00:00",
+            "author": "(anonymous)",
+            "keywords": "",
+            "moddate": "2026-11-17T08:07:13+00:00",
+            "subject": "(unspecified)",
+            "title": "(anonymous)",
+            "trapped": "/False",
+            "source": "employee_handbook.pdf",
+            "total_pages": 2,
+            "page": 1,
+            "page_label": "2",
+            "parent_id": "parent_4"
+        }
+    },
+    "parent_5": {
+        "page_content": "TechNova Solutions — HR Policies\n Fictional sample knowledge-base document | Version 1.0\nDocument notice: All company names, policies, processes, and examples in this document are fictional and created\nsolely for software testing and demonstration.\n1. Purpose and scope\nThis document describes sample human-resources policies for the fictional company TechNova Solutions. It is\ndesigned as test content for an information-retrieval application. It is not an actual company policy, employment\ncontract, or legal guidance. These sample rules apply to hypothetical full-time employees unless a section says\notherwise.\n2. Annual leave\nFor this fictional example, full-time employees receive 20 working days of annual leave per calendar year. Annual\nleave is credited monthly at the rate of 1.67 days, with rounding handled by the HR system. Employees should\nsubmit planned leave requests through the employee portal at least five working days before the first day of leave. A",
+        "metadata": {
+            "producer": "ReportLab PDF Library - (opensource)",
+            "creator": "(unspecified)",
+            "creationdate": "2026-11-17T08:07:13+00:00",
+            "author": "(anonymous)",
+            "keywords": "",
+            "moddate": "2026-11-17T08:07:13+00:00",
+            "subject": "(unspecified)",
+            "title": "(anonymous)",
+            "trapped": "/False",
+            "source": "hr_policies.pdf",
+            "total_pages": 2,
+            "page": 0,
+            "page_label": "1",
+            "parent_id": "parent_5"
+        }
+    },
+    "parent_6": {
+        "page_content": "manager reviews requests based on team coverage, project deadlines, and previously approved leave. A request is\nnot approved until the employee receives confirmation in the portal. Employees should not assume that submitting a\nrequest means it has been approved.\n3. Sick leave\nThe sample policy provides 10 working days of paid sick leave per calendar year. Employees who are unwell should\nnotify their manager as soon as reasonably practical, preferably before their scheduled start time. For an absence of\nmore than three consecutive working days, HR may request appropriate supporting documentation, subject to\napplicable law and company procedure. Medical details should be shared only through approved confidential HR\nchannels, not in public team chats.\n4. Remote and hybrid work\nEligible teams may use a hybrid schedule with up to three remote working days per week, subject to role\nrequirements and manager approval. Employees working remotely must be reachable during their agreed core",
+        "metadata": {
+            "producer": "ReportLab PDF Library - (opensource)",
+            "creator": "(unspecified)",
+            "creationdate": "2026-11-17T08:07:13+00:00",
+            "author": "(anonymous)",
+            "keywords": "",
+            "moddate": "2026-11-17T08:07:13+00:00",
+            "subject": "(unspecified)",
+            "title": "(anonymous)",
+            "trapped": "/False",
+            "source": "hr_policies.pdf",
+            "total_pages": 2,
+            "page": 0,
+            "page_label": "1",
+            "parent_id": "parent_6"
+        }
+    },
+    "parent_7": {
+        "page_content": "hours, protect confidential information, and use company-approved devices and access methods. A manager may\nrequire onsite attendance for customer meetings, planning sessions, training, or operational needs. Remote work\nfrom another country requires prior written approval because of security, tax, and employment considerations.\n5. Public holidays and attendance\nThe company publishes a holiday calendar for each employee location. Employees should consult the calendar\nassigned to their work location. If a public holiday falls on a weekend, any substitute day is determined by the\npublished calendar and local requirements. Employees should record working hours and absences accurately in the\nattendance system. Corrections should be submitted to the manager and HR within five working days of noticing an\nerror.\n6. Leave escalation and questions\nIf an employee believes a leave balance is incorrect, the employee should first review the balance and transactions",
+        "metadata": {
+            "producer": "ReportLab PDF Library - (opensource)",
+            "creator": "(unspecified)",
+            "creationdate": "2026-11-17T08:07:13+00:00",
+            "author": "(anonymous)",
+            "keywords": "",
+            "moddate": "2026-11-17T08:07:13+00:00",
+            "subject": "(unspecified)",
+            "title": "(anonymous)",
+            "trapped": "/False",
+            "source": "hr_policies.pdf",
+            "total_pages": 2,
+            "page": 0,
+            "page_label": "1",
+            "parent_id": "parent_7"
+        }
+    },
+    "parent_8": {
+        "page_content": "in the HR portal. If the discrepancy remains, the employee should raise an HR service request with the relevant\ndates. For an urgent leave matter, the employee should contact the manager and HR through the approved internal",
+        "metadata": {
+            "producer": "ReportLab PDF Library - (opensource)",
+            "creator": "(unspecified)",
+            "creationdate": "2026-11-17T08:07:13+00:00",
+            "author": "(anonymous)",
+            "keywords": "",
+            "moddate": "2026-11-17T08:07:13+00:00",
+            "subject": "(unspecified)",
+            "title": "(anonymous)",
+            "trapped": "/False",
+            "source": "hr_policies.pdf",
+            "total_pages": 2,
+            "page": 0,
+            "page_label": "1",
+            "parent_id": "parent_8"
+        }
+    },
+    "parent_9": {
+        "page_content": "channel. The HR team owns interpretation of this fictional policy and records approved exceptions.\nEnd of sample document.",
+        "metadata": {
+            "producer": "ReportLab PDF Library - (opensource)",
+            "creator": "(unspecified)",
+            "creationdate": "2026-11-17T08:07:13+00:00",
+            "author": "(anonymous)",
+            "keywords": "",
+            "moddate": "2026-11-17T08:07:13+00:00",
+            "subject": "(unspecified)",
+            "title": "(anonymous)",
+            "trapped": "/False",
+            "source": "hr_policies.pdf",
+            "total_pages": 2,
+            "page": 1,
+            "page_label": "2",
+            "parent_id": "parent_9"
+        }
+    },
+    "parent_10": {
+        "page_content": "TechNova Solutions — IT Support and\n Troubleshooting Guide\n Fictional sample knowledge-base document | Version 1.0\nDocument notice: All company names, policies, processes, and examples in this document are fictional and created\nsolely for software testing and demonstration.\n1. How to raise an IT request\nEmployees should submit an IT service request through the support portal and include the affected device,\napplication, time the issue began, exact error message, and troubleshooting steps already attempted. Do not include\npasswords, authentication codes, or secret keys in a ticket. Select the category that best matches the issue so that\nthe request reaches the correct support queue.\n2. Network connectivity\nIf a device cannot reach an internal service, first check whether the device is connected to the approved network or\nVPN. Confirm that other trusted websites or services are reachable. Restarting the approved VPN client may resolve",
+        "metadata": {
+            "producer": "ReportLab PDF Library - (opensource)",
+            "creator": "(unspecified)",
+            "creationdate": "2026-11-17T08:07:13+00:00",
+            "author": "(anonymous)",
+            "keywords": "",
+            "moddate": "2026-11-17T08:07:13+00:00",
+            "subject": "(unspecified)",
+            "title": "(anonymous)",
+            "trapped": "/False",
+            "source": "it_support_guide.pdf",
+            "total_pages": 1,
+            "page": 0,
+            "page_label": "1",
+            "parent_id": "parent_10"
+        }
+    },
+    "parent_11": {
+        "page_content": "a temporary connection problem. If the issue continues, record the time, network type, error message, and whether\nother applications are affected. Do not bypass network controls or install unapproved tunneling software.\n3. Account access and multi-factor authentication\nIf sign-in fails, verify that the username is correct and that the device clock is synchronized. Check whether the\naccount is locked or whether the password has expired. For multi-factor authentication problems, use the approved\naccount recovery process. Support staff should verify the requester's identity before changing authentication\nsettings. Never share a one-time passcode with another person, including someone claiming to be from IT support.\n4. Software installation\nEmployees should request software through the approved software catalogue. The request should state the\nbusiness purpose and the device on which the software is needed. Administrators review licensing, security, and",
+        "metadata": {
+            "producer": "ReportLab PDF Library - (opensource)",
+            "creator": "(unspecified)",
+            "creationdate": "2026-11-17T08:07:13+00:00",
+            "author": "(anonymous)",
+            "keywords": "",
+            "moddate": "2026-11-17T08:07:13+00:00",
+            "subject": "(unspecified)",
+            "title": "(anonymous)",
+            "trapped": "/False",
+            "source": "it_support_guide.pdf",
+            "total_pages": 1,
+            "page": 0,
+            "page_label": "1",
+            "parent_id": "parent_11"
+        }
+    },
+    "parent_12": {
+        "page_content": "compatibility before approval. Users should not download installers from unknown websites or disable endpoint\nprotection to complete an installation.\n5. Device performance\nFor a slow device, note when the slowdown occurs and whether it affects one application or the entire system. Check\navailable storage and close unnecessary applications. Install operating-system updates through the approved update\nmechanism. Do not delete managed security tools or unknown system files. If the device becomes unusually hot,\nrepeatedly crashes, or shows signs of compromise, stop using it for sensitive work and contact IT support.\n6. Incident escalation\nSuspected malware, lost devices, exposed credentials, or unauthorized access should be reported immediately\nthrough the security incident channel. Include the time discovered and a factual description of what happened. Do\nnot attempt to investigate by opening suspicious attachments or deleting potential evidence. The security team will",
+        "metadata": {
+            "producer": "ReportLab PDF Library - (opensource)",
+            "creator": "(unspecified)",
+            "creationdate": "2026-11-17T08:07:13+00:00",
+            "author": "(anonymous)",
+            "keywords": "",
+            "moddate": "2026-11-17T08:07:13+00:00",
+            "subject": "(unspecified)",
+            "title": "(anonymous)",
+            "trapped": "/False",
+            "source": "it_support_guide.pdf",
+            "total_pages": 1,
+            "page": 0,
+            "page_label": "1",
+            "parent_id": "parent_12"
+        }
+    },
+    "parent_13": {
+        "page_content": "provide containment instructions and coordinate follow-up.\nEnd of sample document.",
+        "metadata": {
+            "producer": "ReportLab PDF Library - (opensource)",
+            "creator": "(unspecified)",
+            "creationdate": "2026-11-17T08:07:13+00:00",
+            "author": "(anonymous)",
+            "keywords": "",
+            "moddate": "2026-11-17T08:07:13+00:00",
+            "subject": "(unspecified)",
+            "title": "(anonymous)",
+            "trapped": "/False",
+            "source": "it_support_guide.pdf",
+            "total_pages": 1,
+            "page": 0,
+            "page_label": "1",
+            "parent_id": "parent_13"
+        }
+    },
+    "parent_14": {
+        "page_content": "TechNova Solutions — RAG and Retrieval Guide\n Fictional sample knowledge-base document | Version 1.0\nDocument notice: All company names, policies, processes, and examples in this document are fictional and created\nsolely for software testing and demonstration.\n1. Retrieval-Augmented Generation\nRetrieval-Augmented Generation, commonly called RAG, is an application pattern in which a system retrieves\nrelevant external information and supplies it to a language model when generating an answer. The retrieved material\ncan ground the response in a selected knowledge base. RAG does not guarantee correctness: retrieval can miss\nrelevant evidence, documents can be outdated, and a language model can still misinterpret context. Systems should\nexpose source information and evaluate retrieval quality.\n2. Document ingestion\nA typical ingestion workflow loads source documents, extracts text, normalizes metadata, splits text into chunks,",
+        "metadata": {
+            "producer": "ReportLab PDF Library - (opensource)",
+            "creator": "(unspecified)",
+            "creationdate": "2026-11-17T08:07:13+00:00",
+            "author": "(anonymous)",
+            "keywords": "",
+            "moddate": "2026-11-17T08:07:13+00:00",
+            "subject": "(unspecified)",
+            "title": "(anonymous)",
+            "trapped": "/False",
+            "source": "rag_guide.pdf",
+            "total_pages": 2,
+            "page": 0,
+            "page_label": "1",
+            "parent_id": "parent_14"
+        }
+    },
+    "parent_15": {
+        "page_content": "creates searchable representations, and stores the records. Useful metadata can include document name, page\nnumber, section heading, source identifier, and ingestion timestamp. Keeping source metadata makes it easier to\ntrace a retrieved passage back to its origin.\n3. Chunk size and overlap\nChunk size controls the maximum length of a text segment, while chunk overlap repeats a small portion of text\nbetween adjacent segments. Smaller chunks can improve retrieval precision for focused questions but may omit\nsurrounding context. Larger chunks preserve more context but can introduce irrelevant text and consume more\nprompt tokens. Chunk size should be selected through evaluation rather than treated as a universal constant.\n4. Parent-child retrieval\nA parent-child retrieval design indexes smaller child chunks while retaining larger parent sections in a separate\ndocument store. Search operates over the child chunks. Each child stores a parent identifier. After retrieving a",
+        "metadata": {
+            "producer": "ReportLab PDF Library - (opensource)",
+            "creator": "(unspecified)",
+            "creationdate": "2026-11-17T08:07:13+00:00",
+            "author": "(anonymous)",
+            "keywords": "",
+            "moddate": "2026-11-17T08:07:13+00:00",
+            "subject": "(unspecified)",
+            "title": "(anonymous)",
+            "trapped": "/False",
+            "source": "rag_guide.pdf",
+            "total_pages": 2,
+            "page": 0,
+            "page_label": "1",
+            "parent_id": "parent_15"
+        }
+    },
+    "parent_16": {
+        "page_content": "matching child, the application uses that identifier to fetch the corresponding parent section and supplies the larger\ncontext to the language model. This approach combines fine-grained matching with broader context. The parent\nstore must preserve stable identifiers and support reliable lookup.\n5. Dense and sparse retrieval\nDense retrieval represents text and queries as embedding vectors and finds semantically similar items. It can match\nrelated concepts even when the wording differs. Sparse retrieval, such as BM25, uses term statistics and is useful for\nexact keywords, names, identifiers, and rare terms. Hybrid retrieval combines the complementary strengths of dense\nand sparse search. The application should normalize or fuse ranked results rather than assume raw scores from\ndifferent methods are directly comparable.\n6. Reciprocal Rank Fusion\nReciprocal Rank Fusion (RRF) combines ranked result lists using each result's position rather than comparing the",
+        "metadata": {
+            "producer": "ReportLab PDF Library - (opensource)",
+            "creator": "(unspecified)",
+            "creationdate": "2026-11-17T08:07:13+00:00",
+            "author": "(anonymous)",
+            "keywords": "",
+            "moddate": "2026-11-17T08:07:13+00:00",
+            "subject": "(unspecified)",
+            "title": "(anonymous)",
+            "trapped": "/False",
+            "source": "rag_guide.pdf",
+            "total_pages": 2,
+            "page": 0,
+            "page_label": "1",
+            "parent_id": "parent_16"
+        }
+    },
+    "parent_17": {
+        "page_content": "raw scores produced by different retrieval systems. A common formulation adds 1 divided by a rank constant plus\nthe result rank for each list in which a document appears. Documents ranked highly by multiple retrieval methods\nreceive stronger combined scores. The implementation should use a stable document identifier to recognize the\nsame item across result lists.",
+        "metadata": {
+            "producer": "ReportLab PDF Library - (opensource)",
+            "creator": "(unspecified)",
+            "creationdate": "2026-11-17T08:07:13+00:00",
+            "author": "(anonymous)",
+            "keywords": "",
+            "moddate": "2026-11-17T08:07:13+00:00",
+            "subject": "(unspecified)",
+            "title": "(anonymous)",
+            "trapped": "/False",
+            "source": "rag_guide.pdf",
+            "total_pages": 2,
+            "page": 0,
+            "page_label": "1",
+            "parent_id": "parent_17"
+        }
+    },
+    "parent_18": {
+        "page_content": "7. Reranking and context compression\nA reranker evaluates query-document relevance for an initial candidate set and produces a revised ordering. A\ncommon pipeline retrieves a broader set of candidates, reranks them, and keeps a smaller number for generation.\nContext compression aims to reduce irrelevant material in the final prompt. Reranking and compression can reduce\nnoise and token usage, but the selected passages must still preserve enough evidence to answer the question.\n8. Retrieval evaluation\nA retrieval system should be evaluated with representative questions and known relevant source passages. Useful\nmeasures include recall at k, precision at k, mean reciprocal rank, and latency. End-to-end answer evaluation should\nalso check factual support, citation accuracy, and whether the answer abstains when evidence is insufficient. Record\nretrieval, reranking, and generation latency separately to identify bottlenecks.\nEnd of sample document.",
+        "metadata": {
+            "producer": "ReportLab PDF Library - (opensource)",
+            "creator": "(unspecified)",
+            "creationdate": "2026-11-17T08:07:13+00:00",
+            "author": "(anonymous)",
+            "keywords": "",
+            "moddate": "2026-11-17T08:07:13+00:00",
+            "subject": "(unspecified)",
+            "title": "(anonymous)",
+            "trapped": "/False",
+            "source": "rag_guide.pdf",
+            "total_pages": 2,
+            "page": 1,
+            "page_label": "2",
+            "parent_id": "parent_18"
+        }
+    },
+    "parent_19": {
+        "page_content": "TechNova Solutions — Technical Operations Guide\n Fictional sample knowledge-base document | Version 1.0\nDocument notice: All company names, policies, processes, and examples in this document are fictional and created\nsolely for software testing and demonstration.\n1. API authentication\nInternal services should authenticate using approved credentials such as scoped API keys or OAuth access tokens,\ndepending on the service. Credentials must be stored in a secret manager or protected environment configuration.\nDo not hard-code credentials in source files, commit them to Git, or include them in application logs. Rotate a\ncredential immediately if exposure is suspected. Use the minimum permissions required for the service's task.\n2. HTTP request practices\nClients should set explicit connection and read timeouts. They should validate response status codes and parse\nresponse bodies defensively. A successful HTTP response does not guarantee that the returned business data is",
+        "metadata": {
+            "producer": "ReportLab PDF Library - (opensource)",
+            "creator": "(unspecified)",
+            "creationdate": "2026-11-17T08:07:13+00:00",
+            "author": "(anonymous)",
+            "keywords": "",
+            "moddate": "2026-11-17T08:07:13+00:00",
+            "subject": "(unspecified)",
+            "title": "(anonymous)",
+            "trapped": "/False",
+            "source": "technical_documentation.pdf",
+            "total_pages": 1,
+            "page": 0,
+            "page_label": "1",
+            "parent_id": "parent_19"
+        }
+    },
+    "parent_20": {
+        "page_content": "complete, so applications should validate required fields. Retry only operations that are safe to repeat. For retryable\nfailures, use bounded exponential backoff with jitter and respect any Retry-After header.\n3. Error handling\nApplications should distinguish client errors, server errors, network failures, and validation failures. A 400 response\ngenerally indicates an invalid request; a 401 indicates missing or invalid authentication; a 403 indicates insufficient\npermission; a 404 indicates that the requested resource was not found; and a 429 indicates rate limiting. A 5xx\nresponse indicates a server-side failure. Error messages returned to end users should be useful without exposing\nstack traces, secrets, or internal infrastructure details.\n4. Logging and observability\nLogs should include a timestamp, severity, service name, and correlation identifier where available. Avoid logging",
+        "metadata": {
+            "producer": "ReportLab PDF Library - (opensource)",
+            "creator": "(unspecified)",
+            "creationdate": "2026-11-17T08:07:13+00:00",
+            "author": "(anonymous)",
+            "keywords": "",
+            "moddate": "2026-11-17T08:07:13+00:00",
+            "subject": "(unspecified)",
+            "title": "(anonymous)",
+            "trapped": "/False",
+            "source": "technical_documentation.pdf",
+            "total_pages": 1,
+            "page": 0,
+            "page_label": "1",
+            "parent_id": "parent_20"
+        }
+    },
+    "parent_21": {
+        "page_content": "passwords, access tokens, personal data, or complete confidential request bodies. Metrics should capture request\ncount, error rate, and latency. Distributed traces can help identify which service contributes to end-to-end delay.\nRetention and access to logs should follow the organization's approved security and privacy controls.\n5. Configuration management\nApplications should read environment-specific configuration from environment variables or a configuration service. A\nlocal .env file may be used for development, but it must be excluded from version control. A .env.example file should\ndocument variable names with placeholder values only. Validate required configuration at application startup and fail\nwith a clear message when a required setting is missing.\n6. Deployment and change management\nChanges should be reviewed before merging into the main branch. Automated tests should run before deployment.",
+        "metadata": {
+            "producer": "ReportLab PDF Library - (opensource)",
+            "creator": "(unspecified)",
+            "creationdate": "2026-11-17T08:07:13+00:00",
+            "author": "(anonymous)",
+            "keywords": "",
+            "moddate": "2026-11-17T08:07:13+00:00",
+            "subject": "(unspecified)",
+            "title": "(anonymous)",
+            "trapped": "/False",
+            "source": "technical_documentation.pdf",
+            "total_pages": 1,
+            "page": 0,
+            "page_label": "1",
+            "parent_id": "parent_21"
+        }
+    },
+    "parent_22": {
+        "page_content": "Deployments should have a rollback procedure and a record of the version released. Database or index schema\nchanges should be planned so that the running application and stored data remain compatible. Production\ncredentials must be separated from development credentials.\nEnd of sample document.",
+        "metadata": {
+            "producer": "ReportLab PDF Library - (opensource)",
+            "creator": "(unspecified)",
+            "creationdate": "2026-11-17T08:07:13+00:00",
+            "author": "(anonymous)",
+            "keywords": "",
+            "moddate": "2026-11-17T08:07:13+00:00",
+            "subject": "(unspecified)",
+            "title": "(anonymous)",
+            "trapped": "/False",
+            "source": "technical_documentation.pdf",
+            "total_pages": 1,
+            "page": 0,
+            "page_label": "1",
+            "parent_id": "parent_22"
+        }
+    }
+}
