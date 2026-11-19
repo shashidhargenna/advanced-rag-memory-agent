@@ -100,3 +100,37 @@ When the API server is running, interactive API documentation is available at:
 http://127.0.0.1:8000/docs
 
 The Postman collection is available in api_collection.json.
+
+## example questions
+
+1. Employee Handbook
+
+1. What behavior is expected from employees toward colleagues, customers, vendors, and visitors?
+2. What types of workplace behavior are prohibited?
+3. Where can employees report workplace concerns?
+4. How should confidential company information be shared?
+5. What should employees do if a company device is lost or stolen?
+
+2. HR Policies
+
+1. How many annual leave days does a full-time employee receive per year?
+2. How many sick leave days are provided annually?
+3. How far in advance should employees submit planned leave requests?
+4. How many remote working days are permitted per week?
+5. What should employees do if they believe their leave balance is incorrect?
+
+3. IT Support Guide
+
+1. What information should employees include when submitting an IT service request?
+2. What steps should employees follow if they cannot connect to an internal service?
+3. What should employees do if they experience multi-factor authentication problems?
+4. How should employees request software installation?
+5. What should employees do if they suspect malware or unauthorized access?
+
+4. Technical Documentation
+
+1. How should API credentials be stored?
+2. What timeout settings should HTTP clients use?
+3. What is bounded exponential backoff with jitter?
+4. What is the difference between HTTP 401 and HTTP 403?
+5. What information should application logs contain, and what information should they avoid logging?
